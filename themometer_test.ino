@@ -1,13 +1,8 @@
 #include <math.h>
 
-double Thermistor(int RawADC) 
+double thermistorCelcius(int rawADC) // http://playground.arduino.cc/ComponentLib/Thermistor2
 {
- double Temp;
- Temp = log(10000.0*((1024.0/RawADC-1)));
-//         =log(10000.0/(1024.0/RawADC-1)) // for pull-up configuration
- Temp = 1 / (0.001129148 + (0.000234125 + (0.0000000876741 * Temp * Temp ))* Temp );
- Temp = Temp - 233.15;            // Convert Kelvin to Celcius 273.15
- return Temp;
+ return 0;
 }
 
 void setup() 
@@ -17,10 +12,10 @@ void setup()
 
 void loop() 
 {
- //Serial.println(int(Thermistor(analogRead(0))));  // display Fahrenheit
+ //Serial.println(int(thermistorCelcius(analogRead(0))));
  double temp = analogRead(0);
  Serial.println(temp); 
- temp = (temp * (-1.0/4.0)) + 40.0;
+ temp = (temp * (-1.0/4.0)) + 40.0; // hack solution just to get a result that SEEMS agreeable
  Serial.println(temp); 
  delay(100);
 }
