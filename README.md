@@ -8,6 +8,8 @@ Arduino project with Wi-Fi and a temperature sensor
 5. Go to Boards and select ESPino
 
 - Wi-Fi module
+  * ESP8266MOD
   * ADC : Analog to Digital Converter
   
+  http://rancidbacon.com/files/kiwicon8/ESP8266_WiFi_Module_Quick_Start_Guide_v_1.0.4.pdf
   
