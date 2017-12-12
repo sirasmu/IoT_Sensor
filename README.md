@@ -2,6 +2,7 @@
 Arduino project with Wi-Fi and a temperature sensor
 
 https://www.youtube.com/watch?v=PSczkB4wYec
+
 https://learn.sparkfun.com/tutorials/esp8266-wifi-shield-hookup-guide
 1. Go to the Arduino IDE
 2. Copy this link: http://arduino.esp8266.com/versions/2.3.0/package_esp8266com_index.json
