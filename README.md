@@ -18,7 +18,8 @@ https://learn.sparkfun.com/tutorials/esp8266-wifi-shield-hookup-guide
   http://rancidbacon.com/files/kiwicon8/ESP8266_WiFi_Module_Quick_Start_Guide_v_1.0.4.pdf
   
   
-  - Building ESP Client
-   1. https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiClient/WiFiClient.ino
+- Building ESP Client
+ 1. https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiClient/WiFiClient.ino
+ 2. 
    
   
