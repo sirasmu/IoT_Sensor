@@ -1,0 +1,18 @@
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\ArduinoCommunicator.exe.config
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\ArduinoCommunicator.exe
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\ArduinoCommunicator.pdb
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\Rssdp.dll
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\Rssdp.xml
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.csprojResolveAssemblyReference.cache
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.csproj.CoreCompileInputs.cache
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.exe
+c:\users\amavin\documents\visual studio 2017\Projects\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.pdb
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\ArduinoCommunicator.exe.config
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\ArduinoCommunicator.exe
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\ArduinoCommunicator.pdb
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\Rssdp.dll
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\bin\Debug\Rssdp.xml
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.csprojResolveAssemblyReference.cache
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.csproj.CoreCompileInputs.cache
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.exe
+C:\Users\Amavin\Dropbox\c#\ArduinoCommunicator\ArduinoCommunicator\obj\Debug\ArduinoCommunicator.pdb
