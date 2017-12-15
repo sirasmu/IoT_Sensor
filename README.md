@@ -22,4 +22,4 @@ https://learn.sparkfun.com/tutorials/esp8266-wifi-shield-hookup-guide
  1. https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiClient/WiFiClient.ino
  2. 
    
-  
+ Code currently taken from somewhere else. Rewrite and clean up. Maybe. If I feel like spending more time on this. I think I should just buy my own WiFi module and do my own project.
